@@ -3,6 +3,7 @@
   "displayName": "BlueprintScript Support",
   "description": "Syntax highlighting for BpScript",
   "version": "0.0.1",
+  "repository": {"url": "https://github.com/Mo-Xcoder/bp-syntax"},
   "engines": {
     "vscode": "^1.75.0"
   },
